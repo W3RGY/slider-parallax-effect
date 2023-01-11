@@ -1,4 +1,4 @@
-"use strick";
+"use strict";
 
 window.addEventListener("load", windowLoaded);
 
